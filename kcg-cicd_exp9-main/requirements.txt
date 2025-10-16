@@ -1,0 +1,6 @@
+flask
+gunicorn
+
+# Flask>=2.0
+# pytest>=7.0
+# requests>=2.0
